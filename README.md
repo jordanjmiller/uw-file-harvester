@@ -1,6 +1,5 @@
 # uw-file-harvester
-
-## Instructions
+This program takes data from google drive files and saves wanted information (Link to the file and the file's name) into csv.
 
 ### Installation
 
